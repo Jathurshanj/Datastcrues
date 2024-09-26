@@ -7,8 +7,8 @@
             Console.WriteLine("Hello, World!");
             Console.ReadKey();
 
-            float someFloat = 3.14159f;
-            Console.WriteLine(someFloat.ToString("0.0000"));
+            float somefloat = 3.14159f;
+            Console.WriteLine(somefloat.ToString("0.0000"));
             Console.ReadKey();
         }
     }
